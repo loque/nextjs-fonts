@@ -11,6 +11,12 @@ export default function Home() {
       </Head>
       <main>
         <h1>Next.js Fonts</h1>
+        <p>
+          Lorem ipsum, <strong>dolor sit amet</strong> consectetur adipisicing
+          elit. Dicta cum quaerat quam laborum illo minus ducimus, voluptates
+          eligendi repellat consequuntur molestias cumque, ad quos voluptas
+          dignissimos voluptatem natus temporibus. Excepturi?
+        </p>
       </main>
     </div>
   );
